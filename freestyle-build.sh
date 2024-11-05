@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "==================Freestyle Build=================="
 
 echo "Checking node version..."
